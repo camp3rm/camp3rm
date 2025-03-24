@@ -45,7 +45,7 @@ I'm a Junior Front-End Developer passionate about building responsive and access
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
   </a>
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jira-colored.svg" width="36" height="36" alt="JIRA" />
+    <img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jira-colored.svg](https://freeicons.io/vector-and-svg-logos-icons-11/monitor-jira-icon-6276)" width="36" height="36" alt="JIRA" />
   </a>
 </p>
 
