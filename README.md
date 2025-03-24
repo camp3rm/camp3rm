@@ -33,7 +33,6 @@ I'm a Junior Front-End Developer passionate about building responsive and access
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
   </a>
 </p>
-
 <p align="left">
   <!-- Git, VS Code, Figma, JIRA -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -46,9 +45,10 @@ I'm a Junior Front-End Developer passionate about building responsive and access
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
   </a>
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Jira_logo_2021.svg" width="36" height="36" alt="JIRA" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jira-colored.svg" width="36" height="36" alt="JIRA" />
   </a>
 </p>
+
 
 ## 📫 Connect with me: <br>
 <br>
